@@ -118,7 +118,25 @@ source env2/bin/activate    # On Windows: env2\Scripts\activate</code></pre>
 
 <hr style="border: 1px solid #ccc; margin: 20px 0;" />
 
+## Screenshots
+
+Below are some demonstration images of the project:
+
+### Book Search Interface
+![Book Search](screenshots/book-search.png)
+
+### Homepage
+![Homepage](screenshots/homepage.png)
+
+### Processed Overview Result
+![Overview Result](screenshots/overview-result.png)
+
+### Target Website
+![Target Website](screenshots/target-website.png)
+
 <h2 style="color:#4169E1;">6. Contributing</h2>
+
+<hr style="border: 1px solid #ccc; margin: 20px 0;" />
 
 <p>
   Contributions are welcome! Feel free to open issues or submit pull requests to improve this project.
@@ -137,20 +155,4 @@ source env2/bin/activate    # On Windows: env2\Scripts\activate</code></pre>
 <p style="text-align:center;">
   <em>Made with ❤️ by &lt;Deep Habiswashi&gt;</em>
 </p>
-
-## Screenshots
-
-Below are some demonstration images of the project:
-
-### Book Search Interface
-![Book Search](screenshots/book-search.png)
-
-### Homepage
-![Homepage](screenshots/homepage.png)
-
-### Processed Overview Result
-![Overview Result](screenshots/overview-result.png)
-
-### Target Website
-![Target Website](screenshots/target-website.png)
 

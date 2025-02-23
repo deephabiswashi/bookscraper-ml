@@ -134,9 +134,9 @@ Below are some demonstration images of the project:
 ### Target Website
 ![Target Website](screenshots/target-website.png)
 
-<h2 style="color:#4169E1;">6. Contributing</h2>
-
 <hr style="border: 1px solid #ccc; margin: 20px 0;" />
+
+<h2 style="color:#4169E1;">6. Contributing</h2>
 
 <p>
   Contributions are welcome! Feel free to open issues or submit pull requests to improve this project.
@@ -149,8 +149,6 @@ Below are some demonstration images of the project:
 <p>
   This project is licensed under the <strong>MIT License</strong>. See the <code>LICENSE</code> file for details.
 </p>
-
-<hr style="border: 1px solid #ccc; margin: 20px 0;" />
 
 <p style="text-align:center;">
   <em>Made with ❤️ by &lt;Deep Habiswashi&gt;</em>

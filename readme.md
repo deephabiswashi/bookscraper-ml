@@ -71,7 +71,7 @@ BookScraper-ML/
 <ol>
   <li>
     <strong>Clone this repository:</strong>
-    <pre><code>git clone https://github.com/&lt;YourUsername&gt;/bookscraper-ml.git
+    <pre><code>git clone https://github.com/deephabiswashi/bookscraper-ml.git
 cd bookscraper-ml</code></pre>
   </li>
   <li>
